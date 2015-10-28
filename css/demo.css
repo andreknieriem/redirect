@@ -1,0 +1,25 @@
+html,body {
+	margin: 0;
+	padding: 0;
+	background: #4ab19a;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+}
+a.btn {
+	background: #3d8c7a;
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+}
+
+a.btn:hover {
+	background: #56ceb3;
+}
+
+.centered-text {
+	position: absolute;
+	width: 100%;
+	top: 50%;
+	text-align: center;
+	transform: translateY(-50%);
+}
